@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1748710244 source:c:\users\user\onedrive - mmu.edu.my\desktop\combined\cglabmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"Snorlax.hpp"
+	"Kirby.hpp"
+
+1748677898 c:\users\user\onedrive - mmu.edu.my\desktop\combined\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1748421994 c:\users\user\onedrive - mmu.edu.my\desktop\combined\snorlax.hpp
+	"CGLabmain.hpp"
+
+1748669948 c:\users\user\onedrive - mmu.edu.my\desktop\combined\kirby.hpp
+	<cmath>
+	<GL/glut.h>
+	<vector>
+
+1748710071 source:c:\users\user\onedrive - mmu.edu.my\desktop\combined\kirby.cpp
+	"Kirby.hpp"
+	<iostream>
+	<ctime>
+	<cmath>
+
+1748421994 source:c:\users\user\onedrive - mmu.edu.my\desktop\combined\snorlax.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"Snorlax.hpp"
+
+1749580253 source:c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\cglabmain.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"Snorlax.hpp"
+	"Kirby.hpp"
+	"BattleGround.hpp"
+
+1749302846 c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1749580878 c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\snorlax.hpp
+	"CGLabmain.hpp"
+
+1749580694 c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\kirby.hpp
+	<cmath>
+	<GL/glut.h>
+	<vector>
+
+1749347475 source:c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\kirby.cpp
+	"Kirby.hpp"
+	<iostream>
+	<ctime>
+	<cmath>
+
+1749349106 source:c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\snorlax.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"Snorlax.hpp"
+
+1748977266 source:c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\battleground\battleground\battleground.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"BattleGround.hpp"
+
+1748977266 c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\battleground\battleground\battleground.hpp
+
+1749269114 c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\battleground.hpp
+
+1749303479 source:c:\users\user\onedrive - mmu.edu.my\desktop\y2s2 lab\tcg project\combined\combined\battleground.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"BattleGround.hpp"
+	"Snorlax.hpp"
+	"Kirby.hpp"
+
